@@ -6,9 +6,9 @@
 .f-5 .f-col {
     width: 25% !important;
 }
-/* .test-innerCard {
-    min-height: 280px !important;
-} */
+.test-innerCard {
+    min-height: auto !important;
+}
 .testimonials-card {
     height: 65% !important;
 }
