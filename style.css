@@ -3,3 +3,9 @@
     max-width: 115px;
     min-width: 115px;
 }
+.f-5 .f-col {
+    width: 25%;
+}
+.service-card {
+    height: 400px;
+}
