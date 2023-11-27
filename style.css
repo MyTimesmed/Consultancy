@@ -7,8 +7,11 @@
     width: 25% !important;
 }
 .test-innerCard {
-    min-height: auto !important;
+    min-height: 290px !important;
 }
 .testimonials-card {
     height: 65% !important;
+}
+.testimonials-sec {
+    height: 350px;
 }
